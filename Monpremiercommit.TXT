@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Essai n°2
+=======
+Bonjour
+>>>>>>> Stashed changes
