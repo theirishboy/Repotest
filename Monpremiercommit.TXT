@@ -6,4 +6,8 @@ Bonjour
 =======
 >>>>>>> Stashed changes
 >>>>>>> Stashed changes
+<<<<<<< Updated upstream
 modif
+=======
+Bonjour Ryan
+>>>>>>> Stashed changes
