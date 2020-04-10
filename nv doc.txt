@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ajout texte
+=======
+zzz
+>>>>>>> Ajoutduncss
