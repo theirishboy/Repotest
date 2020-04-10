@@ -1,5 +1,13 @@
 <<<<<<< Updated upstream
 Essai n°2
 =======
+<<<<<<< Updated upstream
 Bonjour
+=======
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
+<<<<<<< Updated upstream
+modif
+=======
+Bonjour Ryan
 >>>>>>> Stashed changes
